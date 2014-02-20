@@ -1,0 +1,17 @@
+{
+  "name": "component-value",
+  "description": "Set form input values",
+  "version": "1.1.0",
+  "keywords": [
+    "form",
+    "input",
+    "field",
+    "val",
+    "value"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-type": "git://github.com/npmcomponent/component-type.git"
+  },
+  "license": "MIT"
+}
